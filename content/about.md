@@ -16,7 +16,18 @@ Then, I was chosen by our customer to become a technology consultant in the loca
 team and this is how I got to Hewlett Packard Enterprise.
 
 In total, I spent in this factory for almost eight years. And I really don't regret it.
-This is a key part of my work attitude, I'm problem solver and
-I could not become this person without such experience.
+This is a key part of my work attitude, **I'm problem solver and
+I could not become this person without such experience.**
+
+---
+
+As I wanted to know all the stuff I was working with even from the administrator point of view,
+I've decided to move to a different company to the System Administrator role.
+
+It was really legacy environment, everyone was really stressed and on-call shifts were a nightmare. 
+Furthermore, I felt an absolute disconnect from the customer and the development cycle so after a short
+time period I've resigned and moved to the next job role with name "DevOps Engineer."
+
+---
 
 
