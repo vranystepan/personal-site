@@ -74,4 +74,14 @@ copyright = "&copy;2019 Stepan Vrany"
         text = "Stack overflow"
         url = "https://stackoverflow.com/users/1410268/stepan-vrany"
 
+  [[params.links]]
+    [params.links.list2]
+      heading = "Lost&Found"
 
+      [[params.links.list2.link]]
+        text = "About"
+        url = "/about/"
+
+      [[params.links.list2.link]]
+        text = "Public speeches"
+        url = "/speeches/"
