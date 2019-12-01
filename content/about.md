@@ -52,3 +52,6 @@ But there's also B, I could not control the pressure so after a short time, I ha
 way how to help customers with cloud adoption and effectivity without losing my mind.
 
 ## Story begins here...
+
+And this is how my story begins. The story, where I'm trying to help you with Public Cloud adoption,
+Developer Experience and DevOps transformation. **Let's become part of this story together!**
