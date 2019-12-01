@@ -82,3 +82,6 @@ copyright = "&copy;2019 Stepan Vrany"
         text = "About"
         url = "/about/"
 
+      [[params.links.list2.link]]
+        text = "Public speeches"
+        url = "/speeches/"
