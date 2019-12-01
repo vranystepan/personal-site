@@ -43,4 +43,7 @@ So I've decided to move towards the more conceptual and implementation job role.
 
 ## Revolgy
 
-
+So I become a Cloud Architect. I was designing and implementing Kubernetes platforms for customers.
+I was helping them with CI/CD and Developer Experience. I have started with public speeches there
+because I always wanted to work with the community. And most importantly,
+I've met there the most motivated and talented people in my life.
