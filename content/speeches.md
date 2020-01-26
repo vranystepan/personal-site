@@ -14,3 +14,8 @@ On October 3rd 2019 I was talking in Romania about painless deployments to the A
 
 On November 13th, 2019 I was talking in Romania about delivery to AWS EKS with AWS CodePipeline and AWS Lambda.
 You can check the slides [here](https://www.slideshare.net/stepanvrany/shipping-apps-to-eks-with-code-pipeline-and-lambda-functions).
+
+### Cloud Native Prague #7
+
+On [January 31st, 2020](https://www.meetup.com/Cloud-Native-Prague/events/267687926/)
+I was talking about DAPR, framework for distributed applications.
